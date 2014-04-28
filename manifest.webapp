@@ -1,0 +1,34 @@
+{
+	"version": "1.1",
+	"name": "Memory-Game",
+	"description": "Volcano Fox is an app from Nicaragua to view the events",
+	"launch_path": "/index.html",
+	"icons": {
+		"16": "/img/icons/appicon-16.png",
+		"48": "/img/icons/appicon-48.png",
+		"128": "/img/icons/appicon-128.png"
+	},
+	"developer": {
+		"name": "Oscar Martin Cortez Martinez",
+		"url": "http://bit.ly/18uazQH"
+	},
+	"installs_allowed_from": ["*"],
+	"locales": {
+		"es": {
+			"description": "Volcano Fox es una aplicacion de Nicaragua para ver los eventos",
+			"developer": {
+				"url": "http://bit.ly/18uazQH"
+			}
+		},
+		"it": {
+			"description": "Vulcano Fox è un app dal Nicaragua per visualizzare gli eventi",
+			"developer": {
+				"url": "http://bit.ly/18uazQH"
+			}
+		}
+	},
+	"default_locale": "en",
+	"permissions": {
+
+	}
+}
