@@ -11,10 +11,12 @@
 <body ng-controller="GameCtrl">
 <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
         <h3>Menu</h3>
-        <a href="#">Animales</a>
-        <a href="#">Cosas</a>
-        <a href="#">Cosas</a>
-        <a href="#">Cosas</a>
+        <a href="#">Celery seakale</a>
+        <a href="#">Dulse daikon</a>
+        <a href="#">Zucchini garlic</a>
+        <a href="#">Catsear azuki bean</a>
+        <a href="#">Dandelion bunya</a>
+        <a href="#">Rutabaga</a>
     </nav>
 <button id="showLeft" class="menu">Menu</button>
   <div>Pares restantes a igualar: {{game.unmatchedPairs}}</div>
