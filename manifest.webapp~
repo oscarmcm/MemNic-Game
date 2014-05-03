@@ -1,7 +1,7 @@
 {
 	"version": "1.1",
 	"name": "Memory-Game",
-	"description": "Memory Game is a game to memory simple cards",
+	"description": "Volcano Fox is an app from Nicaragua to view the events",
 	"launch_path": "/index.html",
 	"icons": {
 		"16": "/img/icons/appicon-16.png",
@@ -15,7 +15,7 @@
 	"installs_allowed_from": ["*"],
 	"locales": {
 		"es": {
-			"description": "Memory Game es un juego de memoria usando simples cartas",
+			"description": "Volcano Fox es una aplicacion de Nicaragua para ver los eventos",
 			"developer": {
 				"url": "http://bit.ly/18uazQH"
 			}
