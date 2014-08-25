@@ -51,11 +51,11 @@ function Game(tileNames) {
   }
 }
 
-Game.MESSAGE_CLICK = 'Click on a tile.';
-Game.MESSAGE_ONE_MORE = 'Pick one more card.'
-Game.MESSAGE_MISS = 'Try again.';
-Game.MESSAGE_MATCH = 'Good job! Keep going.';
-Game.MESSAGE_WON = 'You win!';
+Game.MESSAGE_CLICK = 'Click en una carta.';
+Game.MESSAGE_ONE_MORE = 'Seleccione una carta mas.'
+Game.MESSAGE_MISS = 'Intenta de nuevo';
+Game.MESSAGE_MATCH = 'Sigue asi.';
+Game.MESSAGE_WON = 'Ganaste!';
 
 
 
