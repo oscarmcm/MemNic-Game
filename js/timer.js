@@ -1,7 +1,7 @@
 var time;
 var url = window.location.hash.substr(1);
 if (url == 1) {
-	time = 0;
+	time = 8;
 }
 else if (url == 2) {
 	time = 4;

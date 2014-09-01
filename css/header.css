@@ -159,9 +159,10 @@ section[role="region"] > header:first-child .icon {
   font-size: 0;
   overflow: hidden;
 }
+/* i chage it */
 
 section[role="region"] > header:first-child .icon.icon-add {
-  background-image: url(../images/headers/icons/add.png);
+  background-image: url(../img/add.png);
 }
 
 section[role="region"] > header:first-child .icon.icon-compose {
@@ -183,9 +184,9 @@ section[role="region"] > header:first-child .icon.icon-close {
 section[role="region"] > header:first-child .icon.icon-back {
   background-image: url(../images/headers/icons/back.png);
 }
-
+/* and it*/
 section[role="region"] > header:first-child .icon.icon-menu {
-  background-image: url(../images/headers/icons/menu.png);
+  background-image: url(../img/menu.png);
 }
 
 section[role="region"] > header:first-child .icon.icon-user {
