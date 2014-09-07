@@ -30,6 +30,9 @@ function countdown(minutes) {
                setTimeout(function () { countdown(mins - 1); }, 1000);
            }
        }
+       if( current_minutes == 0 && seconds == 0){
+       		alert("Timeout");
+       }
    }
    tick();
 }
