@@ -31,7 +31,8 @@ function countdown(minutes) {
            }
        }
        if( current_minutes == 0 && seconds == 0){
-       		alert("Timeout");
+       		var popup = document.getElementById("popup");
+			popup.className = popup.className + " is-visible";
        }
    }
    tick();
